@@ -1,8 +1,5 @@
 # "JSTerm"
-A port of PyTerm into Node.js.
+A 1 hour attempt at trying to port PyTerm to JS.
 
-# Why?
-Because. I need some good Node.js experience. So, why not try and clone line-for-line what PyTerm does, but port it to JS!
-
-# What language?
-JS. Node.js.
+# Why'd you give up?
+I quickly realized that Python was superior to JS.
